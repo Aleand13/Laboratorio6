@@ -1,0 +1,12 @@
+.bod{
+    padding: 15%;
+    padding-top: 2%;
+    text-align: justify;
+}
+.navbar{
+    color:blueviolet;
+}
+.card-img{
+    opacity: 0.5;
+    width: 50%;
+}

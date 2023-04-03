@@ -1,0 +1,18 @@
+.bod{
+    padding: 15%;
+    padding-top: 2%;
+    text-align: justify;
+}
+.navbar{
+    color:blueviolet;
+}
+.cards{
+    display: flex;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+#carouselExampleControls{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    display: flex;
+}
